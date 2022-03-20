@@ -4,7 +4,7 @@ ar=array.array("i",[10,20,30,40])
 print(ar)'''
 
 '''import array as arr
-ar=arr.array("i",[10,20,30,40])
+ar=arr.array("i",[10,"jaya",20,30,40])
 print(ar)'''
 
 '''from array import *
